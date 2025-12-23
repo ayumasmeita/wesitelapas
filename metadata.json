@@ -1,0 +1,7 @@
+{
+  "name": "Lapas Kelas IIA Kerobokan - Profile Resmi",
+  "description": "Website profil perusahaan resmi Lembaga Pemasyarakatan Kelas IIA Kerobokan yang menyediakan layanan publik, informasi berita, profil instansi, dan sistem pengaduan terpadu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
